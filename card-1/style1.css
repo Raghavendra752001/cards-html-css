@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: cornflowerblue;
+    color: white;
+}
+.main{
+margin: 0%;
+}
+
+.container1{
+    margin-top: 200px;
+    margin-left: 10%;
+
+}
+
+
+
+.heading{
+     font-size: 40px;
+     color: rgb(61, 2, 2);
+}
+.para1{
+    border: none;
+    padding: 20px;
+    font-size: 18px;
+    float: left;
+}
+.rating-data{
+    padding: 18px;
+    border-radius: 20px;
+    background-color: sandybrown ;
+    display: grid;
+    width: 300px;
+    
+}
+.rate1{
+ border: none;
+ padding: 10px;
+
+}
+.rate2{
+    border: none;
+    padding: 10px;
+   
+   }
+   .rate3{
+    border: none;
+    padding: 10px;
+   
+   }
+   
+   .card1{
+  width: 20%;
+  background-color: rgb(73, 18, 73);
+  height: 70%;
+  border-radius: 10px;
+  margin: 50px;
+  box-shadow: 5px 5px 20px black;
+    display: inline-block;
+    margin-left: 90px;
+
+
+  
+  }
+  .card-text{
+      text-align: centers;
+      padding: 10px;
+
+  }
+  .card-image img{
+      width: 100%;
+      border-bottom-left-radius: 5px;
+      border-top-right-radius: 5px;
+  }
+  .card1:hover{
+      box-shadow: 3px 3px 10px yellow;
+  }
+  .vb{
+      color: violet;
+      text-align: center;
+  }
+ .sim{
+     text-align: center;
+ }
+
+ 
+
+
+
+ 
+
+
+  
+
