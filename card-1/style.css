@@ -23,6 +23,7 @@
 .heading{
      font-size: 40px;
      color: rgb(61, 2, 2);
+      white-space: pre;
 }
 .para1{
     border: none;
